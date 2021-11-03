@@ -16,8 +16,8 @@ sudo docker image pull r0drigocarvalho/php-fpm
 
 ## Supported branches and respective Dockerfile links
 
-- main [Dockerfile](https://github.com/r0drigocarvalho/php-fpm/blob/main/Dockerfile)
-
+- master [Dockerfile](https://github.com/r0drigocarvalho/php-fpm/blob/master/Dockerfile)
+- 7.4.10 [Dockerfile](https://github.com/r0drigocarvalho/php-fpm/blob/7.4.10/Dockerfile)
 
 ## Running your PHP script
 

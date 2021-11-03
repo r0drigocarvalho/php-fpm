@@ -1,4 +1,4 @@
-FROM php:8.0-fpm
+FROM php:7.4.10-fpm
 
 LABEL maintainer="Rodrigo Carvalho <irodrigocarvalho@gmail.com>"
 
