@@ -14,6 +14,11 @@ PHP-FPM (FastCGI Process Manager) is an alternative FastCGI implementation for P
 sudo docker image pull r0drigocarvalho/php-fpm
 ```
 
+## Supported branches and respective Dockerfile links
+
+- main [Dockerfile](https://github.com/r0drigocarvalho/php-fpm/blob/main/Dockerfile)
+
+
 ## Running your PHP script
 
 Run the PHP-FPM image, mounting a directory from your host.
