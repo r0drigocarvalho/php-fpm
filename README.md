@@ -121,4 +121,3 @@ sudo docker container run --rm r0drigocarvalho/php-fpm php -m
 ### Credits
 
 - nanoninja - [github](https://github.com/nanoninja/php-fpm) / [docker-hub](https://hub.docker.com/u/nanoninja)
-# php-fpm
