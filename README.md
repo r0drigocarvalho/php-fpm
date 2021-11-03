@@ -2,6 +2,8 @@
 
 Docker container to install and run [PHP-FPM](https://php-fpm.org/).
 
+[![Automated Build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/repository/docker/r0drigocarvalho/php-fpm/general)
+
 ## What is PHP-FPM
 
 PHP-FPM (FastCGI Process Manager) is an alternative FastCGI implementation for PHP.
